@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Lightyear-88
 - 👀 I’m interested in learning coding
 - 🌱 I’m currently learning Python
-- ⚡ Fun fact: ...
 
 <!---
 Lightyear-88/Lightyear-88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
